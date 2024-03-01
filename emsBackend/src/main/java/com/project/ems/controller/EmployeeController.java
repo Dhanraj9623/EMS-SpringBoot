@@ -1,7 +1,6 @@
 package com.project.ems.controller;
 
 import com.project.ems.dto.EmployeeDto;
-import com.project.ems.repository.EmployeeRepo;
 import com.project.ems.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
